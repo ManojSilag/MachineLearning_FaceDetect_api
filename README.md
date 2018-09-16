@@ -1,1 +1,1 @@
-Backend support for Machinelearning_faceDetect
+Backend support for MachineLearning_Facedetect
